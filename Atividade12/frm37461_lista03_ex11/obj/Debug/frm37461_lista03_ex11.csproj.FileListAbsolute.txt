@@ -1,0 +1,11 @@
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex11\frm37461_lista03_ex11\bin\Debug\frm37461_lista03_ex11.exe.config
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex11\frm37461_lista03_ex11\bin\Debug\frm37461_lista03_ex11.exe
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex11\frm37461_lista03_ex11\bin\Debug\frm37461_lista03_ex11.pdb
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex11\frm37461_lista03_ex11\obj\Debug\frm37461_lista03_ex11.csproj.AssemblyReference.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex11\frm37461_lista03_ex11\obj\Debug\frm37461_lista03_ex11.csproj.SuggestedBindingRedirects.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex11\frm37461_lista03_ex11\obj\Debug\frm37461_lista03_ex11.frmVelocidade.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex11\frm37461_lista03_ex11\obj\Debug\frm37461_lista03_ex11.Properties.Resources.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex11\frm37461_lista03_ex11\obj\Debug\frm37461_lista03_ex11.csproj.GenerateResource.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex11\frm37461_lista03_ex11\obj\Debug\frm37461_lista03_ex11.csproj.CoreCompileInputs.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex11\frm37461_lista03_ex11\obj\Debug\frm37461_lista03_ex11.exe
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex11\frm37461_lista03_ex11\obj\Debug\frm37461_lista03_ex11.pdb

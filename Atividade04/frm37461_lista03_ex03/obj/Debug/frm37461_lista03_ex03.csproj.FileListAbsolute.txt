@@ -1,0 +1,11 @@
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex03\frm37461_lista03_ex03\bin\Debug\frm37461_lista03_ex03.exe.config
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex03\frm37461_lista03_ex03\bin\Debug\frm37461_lista03_ex03.exe
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex03\frm37461_lista03_ex03\bin\Debug\frm37461_lista03_ex03.pdb
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex03\frm37461_lista03_ex03\obj\Debug\frm37461_lista03_ex03.csproj.AssemblyReference.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex03\frm37461_lista03_ex03\obj\Debug\frm37461_lista03_ex03.csproj.SuggestedBindingRedirects.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex03\frm37461_lista03_ex03\obj\Debug\frm37461_lista03_ex03.frmMaiorValor.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex03\frm37461_lista03_ex03\obj\Debug\frm37461_lista03_ex03.Properties.Resources.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex03\frm37461_lista03_ex03\obj\Debug\frm37461_lista03_ex03.csproj.GenerateResource.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex03\frm37461_lista03_ex03\obj\Debug\frm37461_lista03_ex03.csproj.CoreCompileInputs.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex03\frm37461_lista03_ex03\obj\Debug\frm37461_lista03_ex03.exe
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex03\frm37461_lista03_ex03\obj\Debug\frm37461_lista03_ex03.pdb

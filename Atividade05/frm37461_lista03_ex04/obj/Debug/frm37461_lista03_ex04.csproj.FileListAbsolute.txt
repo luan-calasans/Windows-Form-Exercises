@@ -1,0 +1,11 @@
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex04\frm37461_lista03_ex04\bin\Debug\frm37461_lista03_ex04.exe.config
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex04\frm37461_lista03_ex04\bin\Debug\frm37461_lista03_ex04.exe
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex04\frm37461_lista03_ex04\bin\Debug\frm37461_lista03_ex04.pdb
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex04\frm37461_lista03_ex04\obj\Debug\frm37461_lista03_ex04.csproj.AssemblyReference.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex04\frm37461_lista03_ex04\obj\Debug\frm37461_lista03_ex04.csproj.SuggestedBindingRedirects.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex04\frm37461_lista03_ex04\obj\Debug\frm37461_lista03_ex04.frmAreaRetangulo.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex04\frm37461_lista03_ex04\obj\Debug\frm37461_lista03_ex04.Properties.Resources.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex04\frm37461_lista03_ex04\obj\Debug\frm37461_lista03_ex04.csproj.GenerateResource.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex04\frm37461_lista03_ex04\obj\Debug\frm37461_lista03_ex04.csproj.CoreCompileInputs.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex04\frm37461_lista03_ex04\obj\Debug\frm37461_lista03_ex04.exe
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex04\frm37461_lista03_ex04\obj\Debug\frm37461_lista03_ex04.pdb

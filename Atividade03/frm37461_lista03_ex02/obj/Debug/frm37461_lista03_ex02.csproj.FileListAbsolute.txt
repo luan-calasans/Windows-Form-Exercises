@@ -1,0 +1,11 @@
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex02\frm37461_lista03_ex02\obj\Debug\frm37461_lista03_ex02.csproj.AssemblyReference.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex02\frm37461_lista03_ex02\obj\Debug\frm37461_lista03_ex02.csproj.SuggestedBindingRedirects.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex02\frm37461_lista03_ex02\obj\Debug\frm37461_lista03_ex02.frmMenorNumero.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex02\frm37461_lista03_ex02\obj\Debug\frm37461_lista03_ex02.Properties.Resources.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex02\frm37461_lista03_ex02\obj\Debug\frm37461_lista03_ex02.csproj.GenerateResource.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex02\frm37461_lista03_ex02\obj\Debug\frm37461_lista03_ex02.csproj.CoreCompileInputs.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex02\frm37461_lista03_ex02\bin\Debug\frm37461_lista03_ex02.exe.config
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex02\frm37461_lista03_ex02\bin\Debug\frm37461_lista03_ex02.exe
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex02\frm37461_lista03_ex02\bin\Debug\frm37461_lista03_ex02.pdb
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex02\frm37461_lista03_ex02\obj\Debug\frm37461_lista03_ex02.exe
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex02\frm37461_lista03_ex02\obj\Debug\frm37461_lista03_ex02.pdb

@@ -1,0 +1,11 @@
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex09\frm37461_lista03_ex09\bin\Debug\frm37461_lista03_ex09.exe.config
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex09\frm37461_lista03_ex09\bin\Debug\frm37461_lista03_ex09.exe
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex09\frm37461_lista03_ex09\bin\Debug\frm37461_lista03_ex09.pdb
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex09\frm37461_lista03_ex09\obj\Debug\frm37461_lista03_ex09.csproj.AssemblyReference.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex09\frm37461_lista03_ex09\obj\Debug\frm37461_lista03_ex09.csproj.SuggestedBindingRedirects.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex09\frm37461_lista03_ex09\obj\Debug\frm37461_lista03_ex09.frmVerificadorTriangulo.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex09\frm37461_lista03_ex09\obj\Debug\frm37461_lista03_ex09.Properties.Resources.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex09\frm37461_lista03_ex09\obj\Debug\frm37461_lista03_ex09.csproj.GenerateResource.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex09\frm37461_lista03_ex09\obj\Debug\frm37461_lista03_ex09.csproj.CoreCompileInputs.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex09\frm37461_lista03_ex09\obj\Debug\frm37461_lista03_ex09.exe
+C:\Users\luanc\OneDrive\Área de Trabalho\frm37461_lista03_ex09\frm37461_lista03_ex09\obj\Debug\frm37461_lista03_ex09.pdb

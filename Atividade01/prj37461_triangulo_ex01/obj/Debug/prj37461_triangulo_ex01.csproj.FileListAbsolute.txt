@@ -1,0 +1,11 @@
+C:\Users\luanc\OneDrive\Área de Trabalho\prj37461_triangulo_ex01\prj37461_triangulo_ex01\bin\Debug\prj37461_triangulo_ex01.exe.config
+C:\Users\luanc\OneDrive\Área de Trabalho\prj37461_triangulo_ex01\prj37461_triangulo_ex01\bin\Debug\prj37461_triangulo_ex01.exe
+C:\Users\luanc\OneDrive\Área de Trabalho\prj37461_triangulo_ex01\prj37461_triangulo_ex01\bin\Debug\prj37461_triangulo_ex01.pdb
+C:\Users\luanc\OneDrive\Área de Trabalho\prj37461_triangulo_ex01\prj37461_triangulo_ex01\obj\Debug\prj37461_triangulo_ex01.csproj.AssemblyReference.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\prj37461_triangulo_ex01\prj37461_triangulo_ex01\obj\Debug\prj37461_triangulo_ex01.csproj.SuggestedBindingRedirects.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\prj37461_triangulo_ex01\prj37461_triangulo_ex01\obj\Debug\prj37461_triangulo_ex01.frmTriangulo.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\prj37461_triangulo_ex01\prj37461_triangulo_ex01\obj\Debug\prj37461_triangulo_ex01.Properties.Resources.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\prj37461_triangulo_ex01\prj37461_triangulo_ex01\obj\Debug\prj37461_triangulo_ex01.csproj.GenerateResource.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\prj37461_triangulo_ex01\prj37461_triangulo_ex01\obj\Debug\prj37461_triangulo_ex01.csproj.CoreCompileInputs.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\prj37461_triangulo_ex01\prj37461_triangulo_ex01\obj\Debug\prj37461_triangulo_ex01.exe
+C:\Users\luanc\OneDrive\Área de Trabalho\prj37461_triangulo_ex01\prj37461_triangulo_ex01\obj\Debug\prj37461_triangulo_ex01.pdb
