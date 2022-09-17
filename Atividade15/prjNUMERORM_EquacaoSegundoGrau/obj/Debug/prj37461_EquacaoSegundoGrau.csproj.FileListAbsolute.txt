@@ -1,0 +1,53 @@
+C:\Users\aluno\Desktop\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\bin\Debug\prj37461_EquacaoSegundoGrau.exe.config
+C:\Users\aluno\Desktop\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\bin\Debug\prj37461_EquacaoSegundoGrau.exe
+C:\Users\aluno\Desktop\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\bin\Debug\prj37461_EquacaoSegundoGrau.pdb
+C:\Users\aluno\Desktop\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.frmFormulaBhaskara.resources
+C:\Users\aluno\Desktop\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.Properties.Resources.resources
+C:\Users\aluno\Desktop\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.exe
+C:\Users\aluno\Desktop\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.pdb
+C:\Users\luanc\OneDrive\Área de Trabalho\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\bin\Debug\prj37461_EquacaoSegundoGrau.exe.config
+C:\Users\luanc\OneDrive\Área de Trabalho\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\bin\Debug\prj37461_EquacaoSegundoGrau.exe
+C:\Users\luanc\OneDrive\Área de Trabalho\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\bin\Debug\prj37461_EquacaoSegundoGrau.pdb
+C:\Users\luanc\OneDrive\Área de Trabalho\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.csproj.AssemblyReference.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.csproj.SuggestedBindingRedirects.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.frmFormulaBhaskara.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.Properties.Resources.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.csproj.GenerateResource.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.csproj.CoreCompileInputs.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.exe
+C:\Users\luanc\OneDrive\Área de Trabalho\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.pdb
+C:\Users\lab55\Desktop\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\bin\Debug\prj37461_EquacaoSegundoGrau.exe.config
+C:\Users\lab55\Desktop\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\bin\Debug\prj37461_EquacaoSegundoGrau.exe
+C:\Users\lab55\Desktop\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\bin\Debug\prj37461_EquacaoSegundoGrau.pdb
+C:\Users\lab55\Desktop\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.csprojAssemblyReference.cache
+C:\Users\lab55\Desktop\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.frmFormulaBhaskara.resources
+C:\Users\lab55\Desktop\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.Properties.Resources.resources
+C:\Users\lab55\Desktop\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.csproj.GenerateResource.cache
+C:\Users\lab55\Desktop\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.csproj.CoreCompileInputs.cache
+C:\Users\lab55\Desktop\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.exe
+C:\Users\lab55\Desktop\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.pdb
+D:\ETEC\PDC\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.csprojAssemblyReference.cache
+D:\ETEC\PDC\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.frmFormulaBhaskara.resources
+D:\ETEC\PDC\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.Properties.Resources.resources
+D:\ETEC\PDC\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.csproj.GenerateResource.cache
+D:\ETEC\PDC\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.csproj.CoreCompileInputs.cache
+D:\ETEC\PDC\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.exe
+D:\ETEC\PDC\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.pdb
+D:\ETEC\PDC\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\bin\Debug\prj37461_EquacaoSegundoGrau.exe.config
+D:\ETEC\PDC\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\bin\Debug\prj37461_EquacaoSegundoGrau.exe
+D:\ETEC\PDC\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\bin\Debug\prj37461_EquacaoSegundoGrau.pdb
+C:\Users\luanc\OneDrive\Área de Trabalho\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\bin\Debug\prj37461_EquacaoSegundoGrau.exe.config
+C:\Users\luanc\OneDrive\Área de Trabalho\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\bin\Debug\prj37461_EquacaoSegundoGrau.exe
+C:\Users\luanc\OneDrive\Área de Trabalho\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\bin\Debug\prj37461_EquacaoSegundoGrau.pdb
+C:\Users\luanc\OneDrive\Área de Trabalho\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.csproj.AssemblyReference.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.csproj.SuggestedBindingRedirects.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.frmFormulaBhaskara.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.Properties.Resources.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.csproj.GenerateResource.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.csproj.CoreCompileInputs.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.exe
+C:\Users\luanc\OneDrive\Área de Trabalho\Fórmula de Bháskara\prj37461_EquacaoSegundoGrau\prj37461_EquacaoSegundoGrau\obj\Debug\prj37461_EquacaoSegundoGrau.pdb
