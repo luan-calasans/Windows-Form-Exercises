@@ -1,0 +1,11 @@
+C:\Users\aluno\Desktop\prj37461_Completo\prj37461_Completo\bin\Debug\prj37461_Completo.exe.config
+C:\Users\aluno\Desktop\prj37461_Completo\prj37461_Completo\bin\Debug\prj37461_Completo.exe
+C:\Users\aluno\Desktop\prj37461_Completo\prj37461_Completo\bin\Debug\prj37461_Completo.pdb
+C:\Users\aluno\Desktop\prj37461_Completo\prj37461_Completo\obj\Debug\prj37461_Completo.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\prj37461_Completo\prj37461_Completo\obj\Debug\prj37461_Completo.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\prj37461_Completo\prj37461_Completo\obj\Debug\prj37461_Completo.frmIMC.resources
+C:\Users\aluno\Desktop\prj37461_Completo\prj37461_Completo\obj\Debug\prj37461_Completo.Properties.Resources.resources
+C:\Users\aluno\Desktop\prj37461_Completo\prj37461_Completo\obj\Debug\prj37461_Completo.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\prj37461_Completo\prj37461_Completo\obj\Debug\prj37461_Completo.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\prj37461_Completo\prj37461_Completo\obj\Debug\prj37461_Completo.exe
+C:\Users\aluno\Desktop\prj37461_Completo\prj37461_Completo\obj\Debug\prj37461_Completo.pdb

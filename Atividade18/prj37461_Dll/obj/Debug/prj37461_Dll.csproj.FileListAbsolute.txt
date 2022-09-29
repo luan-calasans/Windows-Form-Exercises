@@ -1,0 +1,14 @@
+C:\Users\aluno\Desktop\prj37461_Dll\prj37461_Dll\bin\Debug\prj37461_Dll.exe.config
+C:\Users\aluno\Desktop\prj37461_Dll\prj37461_Dll\bin\Debug\prj37461_Dll.exe
+C:\Users\aluno\Desktop\prj37461_Dll\prj37461_Dll\bin\Debug\prj37461_Dll.pdb
+C:\Users\aluno\Desktop\prj37461_Dll\prj37461_Dll\bin\Debug\prj37461_Classe.dll
+C:\Users\aluno\Desktop\prj37461_Dll\prj37461_Dll\bin\Debug\prj37461_Classe.pdb
+C:\Users\aluno\Desktop\prj37461_Dll\prj37461_Dll\obj\Debug\prj37461_Dll.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\prj37461_Dll\prj37461_Dll\obj\Debug\prj37461_Dll.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\prj37461_Dll\prj37461_Dll\obj\Debug\prj37461_Dll.frmIMC.resources
+C:\Users\aluno\Desktop\prj37461_Dll\prj37461_Dll\obj\Debug\prj37461_Dll.Properties.Resources.resources
+C:\Users\aluno\Desktop\prj37461_Dll\prj37461_Dll\obj\Debug\prj37461_Dll.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\prj37461_Dll\prj37461_Dll\obj\Debug\prj37461_Dll.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\prj37461_Dll\prj37461_Dll\obj\Debug\prj37461_Dll.csproj.CopyComplete
+C:\Users\aluno\Desktop\prj37461_Dll\prj37461_Dll\obj\Debug\prj37461_Dll.exe
+C:\Users\aluno\Desktop\prj37461_Dll\prj37461_Dll\obj\Debug\prj37461_Dll.pdb
