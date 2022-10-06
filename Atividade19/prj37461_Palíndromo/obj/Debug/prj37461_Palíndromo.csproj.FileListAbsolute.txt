@@ -1,0 +1,11 @@
+C:\Users\aluno\Desktop\prj37461_Palíndromo\prj37461_Palíndromo\bin\Debug\prj37461_Palíndromo.exe.config
+C:\Users\aluno\Desktop\prj37461_Palíndromo\prj37461_Palíndromo\bin\Debug\prj37461_Palíndromo.exe
+C:\Users\aluno\Desktop\prj37461_Palíndromo\prj37461_Palíndromo\bin\Debug\prj37461_Palíndromo.pdb
+C:\Users\aluno\Desktop\prj37461_Palíndromo\prj37461_Palíndromo\obj\Debug\prj37461_Palíndromo.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\prj37461_Palíndromo\prj37461_Palíndromo\obj\Debug\prj37461_Palíndromo.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\prj37461_Palíndromo\prj37461_Palíndromo\obj\Debug\prj37461_Palíndromo.frm37461_Palíndromo.resources
+C:\Users\aluno\Desktop\prj37461_Palíndromo\prj37461_Palíndromo\obj\Debug\prj37461_Palíndromo.Properties.Resources.resources
+C:\Users\aluno\Desktop\prj37461_Palíndromo\prj37461_Palíndromo\obj\Debug\prj37461_Palíndromo.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\prj37461_Palíndromo\prj37461_Palíndromo\obj\Debug\prj37461_Palíndromo.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\prj37461_Palíndromo\prj37461_Palíndromo\obj\Debug\prj37461_Palíndromo.exe
+C:\Users\aluno\Desktop\prj37461_Palíndromo\prj37461_Palíndromo\obj\Debug\prj37461_Palíndromo.pdb
